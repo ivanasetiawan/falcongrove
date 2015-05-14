@@ -558,7 +558,7 @@ Hero
   color: #fff; }
 
 .hero h1 {
-  margin: 200px 0 45px 0;
+  margin: 150px 0 45px 0;
   font-weight: 300;
   font-size: 45px; }
 
@@ -1047,5 +1047,12 @@ Waypoints
 .delay-1s {
   -webkit-animation-delay: 1s;
   animation-delay: 1s; }
+
+/* Extraness */
+.header-note {
+  margin-top: 20px;
+  font-size: 0.5em;
+  color: #fff !important;
+  font-style: italic; }
 
 /*# sourceMappingURL=styles.css.map */
